@@ -21,21 +21,27 @@ As a **Microsoft Certified: PL-300** analyst, I applied advanced BI techniques t
 ---
 
 ## 🧠 Strategic Research Insights
-*   **Volume vs. Intensity**: While populous states like **Uttar Pradesh** and **Bihar** lead in total volume, certain smaller states exhibit higher **Update Intensity**, indicating superior administrative outreach and compliance awareness.
+*   **Volume vs. Intensity**: While populous states like **Uttar Pradesh** and **Bihar** lead in total volume, certain smaller states exhibit higher **Update Intensity**, indicating superior administrative outreach.
 *   **Demographic Mobility**: Analysis suggests that update behavior is significantly influenced by population mobility and local governance efficiency.
 *   **MBU Compliance**: Identified specific regional gaps in mandatory biometric updates for minors, providing actionable insights for targeted UIDAI awareness campaigns.
 
 ---
 
-## 📊 Dashboard Preview
-![Dashboard Preview](Screenshots/Page1_Overview.png)
+## 📄 Featured Documentation
+This project includes a **Professional Research Report** that details the analytical methodology and statistical findings.
+*   **Research Paper**: [PROJECTREPORTUIDAINEW1.pdf](./PROJECTREPORTUIDAINEW1.pdf)
+*   **Interactive Dashboard**: [udai.pbix](./udai.pbix)
+
+---
+
+
 
 ---
 
 ## 🗂️ Project Assets
 - **Data Source**: [UIDAI Open Government Data (data.gov.in)](https://data.gov.in)
 - **Tool**: Power BI Desktop (DAX, Power Query).
-- **Deliverable**: `Aadhaar_Compliance_Analysis.pbix`
+- **Academic Goal**: Research preparation for **ICAITPR 2026 (IEEE)** conference.
 
 ---
 
@@ -43,4 +49,4 @@ As a **Microsoft Certified: PL-300** analyst, I applied advanced BI techniques t
 This project demonstrates how data visualization can support **evidence-based decision-making** for public sector initiatives. It highlights my ability to handle large-scale demographic data and translate it into social impact insights.
 
 ---
-**Author**: Nishanth M | Elite NPTEL Gold Medalist | Microsoft Certified: PL-300.
+**Author**: Prasant (Nishanth M) | Elite NPTEL Gold Medalist | Microsoft Certified: PL-300.
